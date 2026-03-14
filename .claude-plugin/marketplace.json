@@ -1,0 +1,11 @@
+{
+  "name": "figma-plugin",
+  "owner": { "name": "annabratseiko" },
+  "plugins": [
+    {
+      "name": "figma-plugin",
+      "source": "./",
+      "description": "Figma plugin for Claude Code"
+    }
+  ]
+}
