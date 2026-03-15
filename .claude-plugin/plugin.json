@@ -35,7 +35,7 @@
     "design-playwright": {
       "command": "npx",
       "args": [
-        "@playwright/mcp@latest",
+        "@playwright/mcp@0.0.68",
         "--extension"
       ],
       "description": "Browser automation for Figma Plugin API interaction and design inspection"
